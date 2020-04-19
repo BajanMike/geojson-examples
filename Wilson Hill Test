@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.531312,
+          13.181313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.53200191259384,
+          13.181736048133905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.531942903995514,
+          13.18171776737271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.531857073307044,
+          13.181754328893739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5306795835495,
+          13.181738659671108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.53054010868072,
+          13.181762163504672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -59.5330935716629,
+              13.181247690186932
+            ],
+            [
+              -59.53216016292572,
+              13.181247690186932
+            ],
+            [
+              -59.53216016292572,
+              13.181824840383161
+            ],
+            [
+              -59.5330935716629,
+              13.181824840383161
+            ],
+            [
+              -59.5330935716629,
+              13.181247690186932
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
